@@ -1,0 +1,36 @@
+
+# Gradle
+.gradle/
+**/build/
+build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Local Android SDK paths
+local.properties
+
+# Android build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Signing credentials
+*.jks
+*.keystore
+keystore.properties
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Python / other generated files
+__pycache__/
+*.pyc
